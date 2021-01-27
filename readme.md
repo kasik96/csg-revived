@@ -8,6 +8,6 @@ _You can update Wiki by creating a pull request with an edit of Wiki files: [htt
 
 **You can find a backup on CSG infographics here: [https://github.com/kasik96/csg-revived/tree/master/infographic](https://github.com/kasik96/csg-revived/tree/master/infographic)**
 
-![CSG 4chan image](https://github.com/kasik96/csg-revived/tree/master/images/Home/300px-Chink_Shit_General_Banner.png)
+![CSG 4chan image](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/Home/300px-Chink_Shit_General_Banner.png)
 
 # [Click here to open CSG Revived Wiki](https://github.com/kasik96/csg-revived/wiki)
