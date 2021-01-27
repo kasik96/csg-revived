@@ -1,4 +1,4 @@
-*Main article: [Chink shit general](https://gitlab.com/eglumu/csg-revived/-/wikis/home "Chink shit general")*
+*Main article: [Chink shit general](https://github.com/kasik96/csg-revived/wiki "Chink shit general")*
 
 _You can help the wiki by keeping this page up-to-date._
 
@@ -171,11 +171,11 @@ When buying a watch, keep in mind that its ability to keep time isn't immediatel
 
 ### Knockoffs/Fakes
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/everyday%20carry/800px-Daniel_Wellingtons.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/everyday%20carry/800px-Daniel_Wellingtons.jpg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/everyday%20carry/800px-Daniel_Wellingtons.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/everyday%20carry/800px-Daniel_Wellingtons.jpg)
 
 A real Daniel Wellington (left) watch next to a fake one (right). Without close inspection, they are indistinguishable.
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/everyday%20carry/Nomos_real_vs_bad_rep.png)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/everyday%20carry/Nomos_real_vs_bad_rep.png)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/everyday%20carry/Nomos_real_vs_bad_rep.png)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/everyday%20carry/Nomos_real_vs_bad_rep.png)
 
 A real Nomos (left) with the recessed seconds subdial, alongside a bad rep (right) that lacks the recessed subdial. Be careful.
 
@@ -258,7 +258,7 @@ Pens
 Self-Defense
 ------------
 
-[![Csg security.jpg](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/everyday%20carry/353px-Csg_security.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/everyday%20carry/353px-Csg_security.jpg)
+[![Csg security.jpg](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/everyday%20carry/353px-Csg_security.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/everyday%20carry/353px-Csg_security.jpg)
 
 AliExpress and other Chinese sellers have the most weaponry banned due to laws in China. The most effective weapon available on Ali is a collapsible police baton by Cree [[2]](http://s.aliexpress.com/yai63mQj) which can wallop 鬼佬 really well and collapses to fit in a backpack.
 

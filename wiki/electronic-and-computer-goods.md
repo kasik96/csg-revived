@@ -1,4 +1,4 @@
-*Main article: [Chink shit general](https://gitlab.com/eglumu/csg-revived/-/wikis/home "Chink shit general")*
+*Main article: [Chink shit general](https://github.com/kasik96/csg-revived/wiki "Chink shit general")*
 
 _You can help the wiki by keeping this page up-to-date._
 
@@ -45,7 +45,7 @@ Amateur radio
 
 Read up on local laws regarding radio communications before your door gets kicked down and you land yourself with a larger fine that your NEETbux can afford.
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/554px-Uv-82-vs-gt-5.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/554px-Uv-82-vs-gt-5.jpg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/554px-Uv-82-vs-gt-5.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/554px-Uv-82-vs-gt-5.jpg)
 
 Baofengs are said to rival radios that cost several times its price. On the left is a UV-82 and on the right is a GT-5.
 
@@ -125,7 +125,7 @@ Microphones
 
 ### Condenser microphones
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/600px-Bm800_mic.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/600px-Bm800_mic.jpg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/600px-Bm800_mic.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/600px-Bm800_mic.jpg)
 
 The legendary BM800 condenser mic. Yours for under 25 USD.
 
@@ -176,7 +176,7 @@ Chinese sellers have some of the widest variety of mechanical keyboard goods ava
 
 ### Mechanical Keyboards
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/800px-Anne_pro_blanks.jpeg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/800px-Anne_pro_blanks.jpeg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/800px-Anne_pro_blanks.jpeg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/800px-Anne_pro_blanks.jpeg)
 
 An Anne Pro keyboard with blank keycaps. The Anne Pro itself can be had for just 80 US dollars or less.
 
@@ -198,7 +198,7 @@ The most recommended Chinese brand keyboards in the mechanical keyboard communit
 
 ### Switches
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/799px-Gateron_switches_1.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/799px-Gateron_switches_1.jpg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/799px-Gateron_switches_1.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/799px-Gateron_switches_1.jpg)
 
 Chinese Gateron switches are widely praised by many.
 
@@ -223,7 +223,7 @@ The characters you see on Taobao will almost certainly be simplified characters.
 
 ### Keycaps
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/450px-Chinese_dolch_pbt.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/450px-Chinese_dolch_pbt.jpg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/450px-Chinese_dolch_pbt.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/450px-Chinese_dolch_pbt.jpg)
 
 A Dolch PBT keycap set from AliExpress on a 60% keyboard. Presumably manufactured by NPKC.
 
@@ -271,7 +271,7 @@ Audiophile
 
 ### Accessories
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/Comply_tips_clones.jpg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/Comply_tips_clones.jpg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/Comply_tips_clones.jpg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/Comply_tips_clones.jpg)
 
 Comply tip clones from AliExpress. Love them or hate them. For under a dollar, it wouldn't hurt to try.
 
@@ -280,7 +280,7 @@ Comply tip clones from AliExpress. Love them or hate them. For under a dollar, i
 
 ### DACs and Amplifiers
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/800px-Fiio_e10k.jpeg)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/electronic%20and%20computer%20goods/800px-Fiio_e10k.jpeg)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/800px-Fiio_e10k.jpeg)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/electronic%20and%20computer%20goods/800px-Fiio_e10k.jpeg)
 
 FiiO E10K. They're not that cheap but they'll give you a good boom for your buck.
 
@@ -292,7 +292,7 @@ FiiO E10K. They're not that cheap but they'll give you a good boom for your buck
 
 ### In-Ear Monitors
 
-See [Chink shit general/Everyday carry#Heaphones/IEMs](https://gitlab.com/eglumu/csg-revived/-/wikis/Everyday-carry#HeadphonesIEMs "Chink shit general/Everyday carry") for a comprehensive list.
+See [Chink shit general/Everyday carry#Heaphones/IEMs](https://github.com/kasik96/csg-revived/wiki/EDC#headphonesiems "Chink shit general/Everyday carry") for a comprehensive list.
 
 ### Portable Players DAPs
 

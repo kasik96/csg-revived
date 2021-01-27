@@ -1,4 +1,4 @@
-*Main article: [Chink shit general](https://gitlab.com/eglumu/csg-revived/-/wikis/home "Chink shit general")*
+*Main article: [Chink shit general](https://github.com/kasik96/csg-revived/wiki "Chink shit general")*
 
 _You can help the wiki by keeping this page up-to-date._
 
@@ -8,7 +8,7 @@ For up to date chinkphone quality comparisons and current lowest prices check Ki
 
 Before you buy a phone, make sure it's compatible with your carrier at [frequencycheck.com](https://www.frequencycheck.com/) or [willmyphonework.net](http://willmyphonework.net/).
 
-[![](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/phones/240px-July_2016_infographic.png)](https://gitlab.com/eglumu/csg-revived/-/raw/master/images/phones/July_2016_infographic.png)
+[![](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/phones/240px-July_2016_infographic.png)](https://raw.githubusercontent.com/kasik96/csg-revived/master/images/phones/July_2016_infographic.png)
 
 a decent^ [*Citation needed*]^ infographic dated July 2016
 
